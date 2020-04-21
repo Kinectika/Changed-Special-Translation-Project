@@ -5,4 +5,4 @@ add the manual translations to the game IT WILL HAVE INACTURACIES so for the sto
 HOW TO INSTALL PATCH
 https://youtu.be/kaYE7OlCFro
 this video shows you what to do from a fresh install of special (the patch used in the video is early in development so the text will
-be inside the box not going outside the box soon
+be inside the box not going outside the box soon)
