@@ -1,6 +1,6 @@
 # Changed-Special-Translation-Project
 This is NOT a perfect translation or probally will ever be it is being translated by a single person (Kinectika) using Translator++ to 
-add the manual translations to the game IT WILL HAVE INACTURACIES so for the story play original changed
+add the manual translations to the game IT WILL HAVE INACTURACIES so for the story play original changed. The game may also crash (it will crash and loose progress to last save point) dont worry its a wip game and it was movified so stability is not garenteed.
 raw save is in this drive folder https://drive.google.com/drive/folders/1vPbOgIwCNa0HK8QE-hhz0zh0fpN3lXGB?usp=sharing
 
 HOW TO INSTALL PATCH
