@@ -7,3 +7,5 @@ HOW TO INSTALL PATCH
 https://youtu.be/kaYE7OlCFro
 this video shows you what to do from a fresh install of special (the patch used in the video is early in development so the text will
 be inside the box not going outside the box Release 0.1 or or later)
+
+REPORT ANY BUG OR ERROR TO https://github.com/Kinectika/Changed-Special-Translation-Project/issues
