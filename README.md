@@ -4,6 +4,7 @@ add the manual translations to the game IT WILL HAVE INACTURACIES so for the sto
 raw save is in this drive folder https://drive.google.com/drive/folders/1vPbOgIwCNa0HK8QE-hhz0zh0fpN3lXGB?usp=sharing   We have a tumblr blog for updated info and any updates to the translation project https://kinectika-re.tumblr.com/ 
 
 HOW TO INSTALL PATCH
+
 Text: Goto https://github.com/Kinectika/Changed-Special-Translation-Project/wiki and click install guide on the right side
 
 Video: https://youtu.be/kaYE7OlCFro
